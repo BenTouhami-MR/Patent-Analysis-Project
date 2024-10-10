@@ -41,6 +41,12 @@ Understanding patent statistics is crucial for both investors and researchers:
 - The difference in data architecture across sources was a significant challenge but led to a comprehensive understanding of the data landscape.
 - Using a combination of tools and technologies, we streamlined the process from data collection to visualization, ensuring high-quality insights.
 
+## My Role
+- Collecting data from the EPO using an API, along with connecting to MongoDB to gather and export patent data.
+- Utilizing PySpark for data transformation, including date parsing and data cleaning.
+- Designing and implementing a relational database schema using SQLAlchemy to manage patent-related entities.
+- Inserting processed data into PostgreSQL, ensuring proper handling of relationships among patents, inventors, and applicants.
+
 
 ## Connect and Collaborate
 
